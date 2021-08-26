@@ -97,28 +97,20 @@ Where is the Power of DAX? 1, 2 or 3?
 
 - What is Data Storytelling?
 	-> The power of building a narrative around a set of data to help convey the meaning of that data in a powerful and compelling fashion 
-		https://tdwi.org/portals/what-is-data-storytelling-definition.aspx
 	-> In other words, to guide your audience smoothly through the analysis.
 	-> A dashboard is like a joke. If you have to explain that's because it was not good.
 
 - Recomendations:
-	1) Identify your audience
-		- Ask how a dashboard will be used and design for next step actions
+	1) Identify the audience
+		- Ask how a dashboard will be used and design for next step actions?
 		- What information does the reader need to be successful?
 		- How much detail does the reader need?
 	2) Draw a sketch
 		- Good design should tell a story with data that does not become overwhelming with way too much information, clutter or noise. 
 		- Limit content to fit entirely on one screen.
-		- Keep your dashboard simple with only a 3 to 5 key values, charts, or tables. Avoid putting too much information on a dashboard.
-		- If detail tables are needed, place them on the bottom of the dashboard
-	3) Choose the right visuals
-	4) Choose the right theme and keep consistency
-		- https://color.adobe.com/explore
-5) Create a background (WOW effect)
-6) Use icons and images to add context 
-	- https://logomakr.com
-7) Align all visuals properly
-8) Use references to get inspiration
-9) Use visualization features from Power BI (tooltip, drill-through, bookmarks...)
+		- Keep the dashboard simple with only a 3 to 5 key values, charts, or tables. Avoid putting too much information on a dashboard.
+	3) Choose the right visuals and Create a background (WOW effect) 
+	4) Align all visuals properly. 
+	5) Use visualization features from Power BI (tooltip, drill-through, bookmarks...)
 
 
